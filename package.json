@@ -1,0 +1,14 @@
+{
+  "name": "fs-table",
+  "version": "1.0.0",
+  "description": "读取excel转为html文件",
+  "main": "fs-table.js",
+  "scripts": {
+    "serve": "node fs-table.js"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "devDependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
